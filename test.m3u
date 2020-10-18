@@ -1,4 +1,10 @@
 {
+	"name": "YOUTUBE@แอนดรอยด์แอพฟรี",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"url": "https://raw.githubusercontent.com/omijang/testm3u/main/test",
+	"groups": [
+
+{
 			    "name": "CH3 HD",
                             "image": "https://overseer.blackboxsys.net/images/png/hd-ch3.png",
                             "url": "https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8",
